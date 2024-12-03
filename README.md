@@ -33,11 +33,13 @@ This project is a **global telemedicine platform** where any certified doctor ca
 ### Login Page (Patient Side)
 ![Login as Patient](./Screenshot_(6).png)
 
-### Patient Dashboard
+### Patients Dashboard
 ![Patient Dashboard](./Screenshot_(7).png)
 
 ### Login Page (Doctor Side)
 ![Login as Doctor](./Screenshot_(8).png)
+### Doctors Dashboard
+![Doctor Dashboard](./Screenshot_(9).png)
 
 ---
 
