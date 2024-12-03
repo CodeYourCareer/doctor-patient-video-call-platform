@@ -40,6 +40,18 @@ This project is a **global telemedicine platform** where any certified doctor ca
 ![Login as Doctor](./Screenshot_(8).png)
 ### Doctors Dashboard
 ![Doctor Dashboard](./Screenshot_(9).png)
+### Doctors Profile
+![Doctors Profile](./Screenshot_(10).png)
+### Appointments booked by a Patient  Dashboard and approved by Doctors
+![Appointments booked by a Patient  Dashboard and approved by Doctors](./Screenshot_(11).png)
+### Book Appointment
+![Book Appointment](./Screenshot_(12).png)
+### Request Appointment(Doctors Dashboard)
+![Request Appointment(Doctors Dashboard)](./Screenshot_(9).png)
+### Approved Appointment(Doctors Dashboard)
+![Approved Appointment(Doctors Dashboard)](./Screenshot_(13).png)
+### History Appointment(Doctors Dashboard)
+![History Appointment(Doctors Dashboard)](./Screenshot_(14).png)
 
 ---
 
