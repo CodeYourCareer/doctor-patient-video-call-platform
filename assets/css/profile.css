@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1d2b3a !important;
+}
+
+h4 {
+  border-bottom: 2px solid #4cae4f;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.badge {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.list-group-item {
+  font-size: 1rem;
+  border-radius: 0.5rem;
+}
+.heading {
+  color: #4cae4f;
+}
+.text-warning {
+  color: #4cae4f !important;
+}

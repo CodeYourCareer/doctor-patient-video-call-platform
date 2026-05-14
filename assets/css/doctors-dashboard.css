@@ -1,0 +1,57 @@
+body {
+  background-color: #1a1a1a;
+  color: white;
+}
+.text-warning {
+  color: #4cae4f !important;
+}
+
+.profile-card {
+  text-align: left;
+  padding: 20px;
+  background-color: #262626;
+  border-radius: 10px;
+}
+
+.navigation {
+  background-color: #111;
+  padding: 20px;
+}
+.navigation a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+.navigation a:hover {
+  color: #f0ad4e;
+}
+.section-heading {
+  margin: 20px 0;
+  color: #f0ad4e;
+}
+.card {
+  background-color: #262626;
+  border: 1px solid #f0ad4e;
+}
+.card .btn {
+  margin: 5px;
+}
+.btn-approve {
+  background-color: #28a745;
+  color: white;
+}
+.btn-reschedule {
+  background-color: #007bff;
+  color: white;
+}
+.btn-cancel {
+  background-color: #dc3545;
+  color: white;
+}
+.toggle-buttons {
+  text-align: center;
+  margin: 20px 0;
+}
+.toggle-buttons .btn {
+  margin: 5px;
+}
